@@ -10,7 +10,7 @@ import com.example.WS_project.entities.User;
 import com.example.WS_project.repositories.UserRepository;
 
 @Service
-public class UserServices {
+public class UserService {
 
     @Autowired
     private UserRepository userRepository;
